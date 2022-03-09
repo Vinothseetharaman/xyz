@@ -14,6 +14,8 @@ public class Datatype2{
 		System.out.println(name);
 		System.out.println(condi);
 		
+		sysout.out.println(bala);
+		
 	}
 
 }
