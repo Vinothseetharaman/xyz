@@ -7,10 +7,12 @@ public class Datatype2{
 	
 		int number = 10 ;
 		char sex = ('a');
+		boolean condi = false;
 		String name =("praba");
 		System.out.println(number);
 		System.out.println(sex);
 		System.out.println(name);
+		System.out.println(condi);
 		
 	}
 
