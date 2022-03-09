@@ -12,6 +12,8 @@ public class Datatype2{
 		System.out.println(sex);
 		System.out.println(name);
 		
+		sysout.out.println(bala);
+		
 	}
 
 }
