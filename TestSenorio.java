@@ -11,6 +11,7 @@ public class TestSenorio {
 		boolean indianCitizen = true;
 		
 		System.out.println(ageOfPerson == 18 && indianCitizen == true);
+		system.out.println(name);
 		
 		
 	}
